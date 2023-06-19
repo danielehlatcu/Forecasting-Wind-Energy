@@ -1,5 +1,5 @@
 # Forecasting-Wind-Energy
-This university project involves the exploration of wind energy forecasting in various scenarios. My colleague and I created a hypothetical wind energy company called "RenewaBolo" for this project. Although the scenarios we worked with are entirely fictional, we aimed to make them as realistic as possible during their development.
+This university project (stored in <b><i>project.pdf<i><b> involves the exploration of wind energy forecasting in various scenarios. My colleague and I created a hypothetical wind energy company called "RenewaBolo" for this project. Although the scenarios we worked with are entirely fictional, we aimed to make them as realistic as possible during their development.
 
 The project focused on forecasting the following aspects:
 
